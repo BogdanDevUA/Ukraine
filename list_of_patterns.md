@@ -1,13 +1,19 @@
-![](.svg)
+![](mini_ukraine.svg)
 
-![](.svg)
+![](ukraine.svg)
 
-![](.svg)
+![](1.svg)
 
-![](.svg)
+![](2.svg)
 
-![](.svg)
+![](3.svg)
 
-![](.svg)
+![](4.svg)
 
-![](.svg)
+![](5.svg)
+
+![](6.svg)
+
+![](7.svg)
+
+![](8.svg)
